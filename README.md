@@ -2,8 +2,10 @@
 
 ## motivation
 
-There is a famous saying from Linus Torvalds which is "Talk is cheap, show me the code."
+There is a famous saying from Linus Torvalds which is `Talk is cheap, show me the code.`
+
 It shows the importance of source code in computer science.
+
 But computer science is growing so fast, we are building more and more subdiscipline to solve 
 specific problems, more and more layers beyond other layers to solve complexity problems.
 It may be difficult and too specific for programmers to read bare source code for big projects
