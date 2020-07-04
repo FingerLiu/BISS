@@ -22,11 +22,12 @@ PR is welcomed if you have other scripts of this kind.
 ### Docker implemented in around 100 lines of bash.
 https://github.com/p8952/bocker
 
-### the easiest log-structured database
+### The easiest log-structured database
 
-db.sh
-explained in the book ![Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+[db.sh](https://github.com/FingerLiu/BISS/blob/master/scripts/db.sh)
 
-### simple http server implemented with netcat
+Explained in this book [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+### Simple http server implemented with netcat
 
 https://github.com/FingerLiu/auth-enabled-bash-server
